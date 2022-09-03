@@ -1,13 +1,16 @@
 # GraphQL-React-Full-Stack-App
-
+``` diff
 A full-stack project management system with GraphQL, Express, MongonDB, React and Apollo.
+```
 
-✅ GraphQL <br />
-✅ Express<br />
-✅ MongoDB<br />
-✅ Mongoose<br />
-✅ React<br />
-✅ Apollo Client<br />
+TechStack: </br>
+
+✅ GraphQL </br>
+✅ Express </br>
+✅ MongoDB </br>
+✅ Mongoose </br>
+✅ React </br>
+✅ Apollo Client </br>
 
 ## Screenshots of the App.
 <img width="1437" alt="Screenshot 2022-09-03 at 16 21 29" src="https://user-images.githubusercontent.com/73651340/188277435-9b27a7c0-76d3-4d22-97f1-39b08ab733c2.png">
