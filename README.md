@@ -12,6 +12,32 @@ TechStack: </br>
 ✅ React </br>
 ✅ Apollo Client </br>
 
+# Project Mgmt App
+Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
+
+## Usage
+
+### Install backend dependencies
+```
+npm install
+```
+
+### Install client dependencies
+```
+cd client
+npm install
+```
+
+### Add Mongo URI
+If you're going to use MongoDB, create a database with Atlas, add it to the **.env.example** file and rename the file to **.env**
+
+### Run backend & frontend
+```
+npm run dev
+cd client
+npm start
+```
+
 ## Screenshots of the App.
 <img width="1437" alt="Screenshot 2022-09-03 at 16 21 29" src="https://user-images.githubusercontent.com/73651340/188277435-9b27a7c0-76d3-4d22-97f1-39b08ab733c2.png">
 <img width="1437" alt="Screenshot 2022-09-03 at 16 21 45" src="https://user-images.githubusercontent.com/73651340/188277453-4ee89069-53b5-479a-b194-b7e359eb944a.png">
