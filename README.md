@@ -12,8 +12,6 @@ TechStack: </br>
 ✅ React </br>
 ✅ Apollo Client </br>
 
-# Project Mgmt App
-Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
 
 ## Usage
 
